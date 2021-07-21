@@ -1,0 +1,9 @@
+.btn {
+    border-top: 5px solid black;
+    border-right: 5px solid black;
+    border-left: 8px solid black;
+    border-bottom: 8px solid black;
+    transition: all 0.2s cubic-bezier(0.64, 0.05, 0.35, 1);
+    padding: 8px 2px;
+    font-size: 32px;
+}
